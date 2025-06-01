@@ -1,0 +1,1 @@
+This directory has files that allow communication with the Flysky FS-iA6B RC Receiver via IBus
